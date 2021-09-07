@@ -1,0 +1,73 @@
+.car-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.car-left .image{
+    background: url(/img/carLeft1.webp);
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: auto;
+}
+.aft{
+    width: 50px;
+    height: 2px;
+    background-color: #f9ae00;
+}
+.card{
+    box-shadow: .05rem .05rem .5rem #888888;
+}
+
+.icon{
+    display: flex;
+    width: 10%;
+    justify-content: center;
+    margin: auto;
+    padding: 2rem 0 3rem 0;
+}
+
+.question{
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.question:hover{
+    text-decoration: underline;
+    color: black;
+}
+.enquiry{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.enquiry:hover{
+    color: rgb(129, 127, 127);
+    text-decoration: underline;
+}
+.flexing{
+    padding: 1.5rem 0;
+}
+.flexing a{
+    text-decoration: none;
+    padding: 0 1rem;
+}
+.flexing a:hover{
+    text-decoration: underline;
+}
+.texts{
+    text-decoration: none;
+    font-weight: bold;
+}
+.texts:hover{
+    text-decoration: underline;
+}
+.bg-foot{
+    background-color: #07321b;
+}
+.carol img{
+    height: 50%;
+    height: 50%;
+}
